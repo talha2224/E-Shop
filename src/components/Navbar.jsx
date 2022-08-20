@@ -147,7 +147,7 @@ const Navbar = () => {
                 <Link to="/categories" className='link'>Categories</Link>
                 {/* <Link to="/addproduct" className='link' style={{ "letterSpacing": "1px" }}> add product</Link> */}
             </Home>
-        </>
+        </> 
     )
 }
 
